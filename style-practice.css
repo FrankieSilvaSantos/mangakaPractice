@@ -1,0 +1,88 @@
+body {
+    background-color: rgb(35, 38, 40);
+}
+
+header {
+    background-color: rgb(35, 38, 40);
+}
+
+.banner {
+    margin: 0 580px;
+    display: block;
+}
+
+.titulo {
+    background-color: #059e9a;
+    padding: 2px;
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 6px;
+    color: white;
+}
+
+.titulo-p {
+    margin-left: 10px;
+}
+
+.caixa-selecione-episodio {
+    background-color:black ;
+    display: inline-block;
+    margin-left: 50px;
+    width: 90%;
+    
+}
+
+.selecione-episodio {
+    margin: 15px 0;
+    
+  
+    
+}
+
+.botao {
+    text-decoration: none;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    
+}
+
+#episodio {
+    padding: 8px;
+    padding-right: 250px;
+    margin-left: 5px;
+    background-color: rgb(24, 26, 27);
+    color: #e8e6e3;
+}
+
+h1 {
+    color: rgb(157, 148, 136);
+    background-color: rgb(24, 26, 27);
+    font-size: 12px;
+    margin-left: 5px;
+    padding: 8px;
+    padding-right: 70px;
+    width: 10%;
+}
+
+h2 {
+    text-align: center;
+    color: #059e9a;
+}
+
+.sobre-site {
+    color:rgb(157, 148, 136);
+    
+}
+
+.titulo-episodio {
+    background-color: rgba(0, 0, 0, 0.39);
+    display: inline-block;
+    width: 90%;
+    margin-left: 50px;
+}
+
+.manga {
+    text-align: center;
+}
